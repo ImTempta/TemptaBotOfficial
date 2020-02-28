@@ -1,0 +1,2 @@
+# TemptaBotOfficial
+Active Tempta Bot
